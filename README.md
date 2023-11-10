@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Huy!</h1>
 
-- 🌱 I’m currently learning **Solidity** for **Graduation purpose**.
+- 🌱 I’m currently learning **Cosmwasm** for **Graduation purpose**.
 
-- 💬 Other languages that I has been using **solidity, javascript**
+- 💬 Other languages that I has been using **solidity, javascript, rust**
 
 - 👨‍💻 You can view some of my projects at [here](https://github.com/ledanghuy1811?tab=repositories)
 
