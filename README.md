@@ -13,4 +13,4 @@
 <a href="https://www.linkedin.com/in/l%C3%AA-huy-87762b20b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ledinhhuy" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledanghuy1811&show_icons=true&locale=en&layout=compact" alt="ledanghuy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ledinhhuy1811&show_icons=true&locale=en&layout=compact" alt="ledanghuy" /></p>
